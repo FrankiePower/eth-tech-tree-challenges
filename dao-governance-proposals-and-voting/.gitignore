@@ -1,0 +1,58 @@
+#others
+.github
+.gitmodules
+*/.git/
+*/.github/
+*/.vscode/
+*/.idea/
+*/.next/
+*/.vercel/
+*/.yarn/
+*/.pnp/
+*/.pnp.js
+*/.env
+*/.env.local
+*/.env.development.local
+*/.env.test.local
+*/.env.production.local
+*/.DS_Store
+*/.pnp-debug.log*
+*/.npm-debug.log*
+*/.yarn-debug.log*
+*/.yarn-error.log*
+*/.tsbuildinfo
+.husky
+.yarn
+lib
+*.log
+
+# dependencies
+node_modules
+
+# yarn
+.yarn/*
+!.yarn/patches
+!.yarn/plugins
+!.yarn/releases
+!.yarn/sdks
+!.yarn/versions
+!.yarnrc
+
+# Yarn cache
+.yarn/cache/
+.yarn/unplugged/
+.yarn/build-state.yml
+.pnp.*
+
+# eslint
+.eslintcache
+
+# misc
+.DS_Store
+
+# IDE
+.vscode
+.idea
+
+# cli
+dist
