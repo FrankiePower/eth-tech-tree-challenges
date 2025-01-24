@@ -43,7 +43,7 @@
 *.swp
 
 #large files
-token-voting
+/token-voting
 moloch-rage-quit
 multisend
 eth-streaming
