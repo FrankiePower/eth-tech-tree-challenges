@@ -1,0 +1,30 @@
+#others
+.github
+.husky
+.yarn
+lib
+
+# dependencies
+node_modules
+.gitmodules
+
+# yarn
+.yarn/*
+!.yarn/patches
+!.yarn/plugins
+!.yarn/releases
+!.yarn/sdks
+!.yarn/versions
+
+# eslint
+.eslintcache
+
+# misc
+.DS_Store
+
+# IDE
+.vscode
+.idea
+
+# cli
+dist
