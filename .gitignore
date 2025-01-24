@@ -41,3 +41,11 @@
 */.yarn-error.log*
 */.tsbuildinfo
 *.swp
+
+#large files
+token-voting
+moloch-rage-quit
+multisend
+eth-streaming
+token-wrapper-weth
+rebasing-token
